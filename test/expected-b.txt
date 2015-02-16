@@ -1,0 +1,3 @@
+//<![CDATA[
+var str = '<[[goodbye world]]]]><![CDATA[>'
+//]]>
