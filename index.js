@@ -8,4 +8,4 @@ exports.outputFormat = 'html';
 exports.render = function (str, options) {
   var escaped = str.replace(re, "]]]]><![CDATA[>");
   return '//<![CDATA[\n' + escaped + '\n//]]>';
-}
+};
