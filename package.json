@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-cdata-js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "JSTransformer that transforms a JavaScript string into XML CDATA.",
   "keywords": [
     "jstransformer",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-foo.git"
+    "url": "https://github.com/jstransformers/jstransformer-cdata-js.git"
   },
   "author": {
     "name": "JSTransformers Team",
