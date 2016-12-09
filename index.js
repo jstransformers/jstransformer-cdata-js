@@ -1,11 +1,11 @@
-'use strict';
+'use strict'
 
-var re = /\]\]>/g;
+var re = /]]>/g
 
-exports.name = 'cdata-js';
-exports.outputFormat = 'html';
+exports.name = 'cdata-js'
+exports.outputFormat = 'html'
 
-exports.render = function (str, options) {
-  var escaped = str.replace(re, "]]]]><![CDATA[>");
-  return '//<![CDATA[\n' + escaped + '\n//]]>';
-};
+exports.render = function (str) {
+  var escaped = str.replace(re, ']]]]><![CDATA[>')
+  return '//<![CDATA[\n' + escaped + '\n//]]>'
+}
