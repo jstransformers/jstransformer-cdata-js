@@ -1,5 +1,7 @@
 # jstransformer-cdata-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-cdata-js.svg)](https://greenkeeper.io/)
+
 Transformer that converts a JavaScript string to an XML CDATA.
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-cdata-js/master.svg)](https://travis-ci.org/jstransformers/jstransformer-cdata-js)
