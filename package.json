@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-cdata-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JSTransformer that transforms a JavaScript string into XML CDATA.",
   "keywords": [
     "jstransformer",

@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.0: 2015-08-04
+
+- Use of `const` instead of `var`
+
 ## v1.0.0: 2015-08-04
 
 - Unchanged
